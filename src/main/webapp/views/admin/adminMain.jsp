@@ -14,15 +14,17 @@
   <admin:navigation/>
   <div id="layoutSidenav_content">
     <main>
+
       <div class="container-fluid">
+
         <div class="card mb-4">
+          
           <div class="card-header"><h3 class="text-center font-weight-light my-4">Admin details</h3></div>
           <div class="card-body">
             <util:genericProgressIndicator text="Getting profile data" id="profile-progress" display="none"/>
             <div id="admin-error-message" style="text-align: center;">
               <span></span>
             </div>
-##njdfn
 
           </div>
         </div>
